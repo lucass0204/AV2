@@ -38,7 +38,7 @@ Este projeto contém os **5 itens avaliativos (2,0 pts cada)** da **AV2**:
 ## ▶️ Execução Local
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/TrabalhoAv2.git
+git clone https://github.com/lucass0204/AV2.git
 cd TrabalhoAv2
 
 # Restaurar e compilar
